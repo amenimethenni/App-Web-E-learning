@@ -1,0 +1,6 @@
+body { 
+    font-family: Arial; width: 950px; text-align: center; margin: 5px auto ; } 
+#principale { height: 800px; width: 850px;  background-color:infobackground; } #divisiongauche 
+{ height: 800px; width: 250px; float: left; background-color:infobackground ; } #divisiondroite
+{ height: 800px; width: 600px; float: left; background-color:infobackground ;
+}
